@@ -1,3 +1,5 @@
 Kevin Vargas, edad 27 años
 
 Es desarrollador Fullstack
+
+Vive en Quito
